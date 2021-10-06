@@ -1,0 +1,37 @@
+
+You just released the optional tasks of this project. Have fun!
+0x09. Python - Everything is object
+ By Guillaume
+ Weight: 1
+ Ongoing second chance project - started 10-05-2021, must end by 10-07-2021 (in about 15 hours) - you're done with 0% of tasks.
+ QA review fully automated.
+In a Auto QA review: 0.0/94 mandatory & 0.0/59 optional
+Altogether:  0.0%
+Mandatory: 0.0%
+Optional: 0.0%
+Calculation:  0.0% + (0.0% * 0.0%)  == 0.0%
+
+
+Background Context
+Now that we understand that everything is an object and have a little bit of knowledge, s pause and look a little bit closer at how Python works with different types of objects.
+
+BTW, have you ever modified a variable without knowing it or wanting to? I mean:
+
+>>> a = 1
+>>> b = a
+>>> a = 2
+>>> b
+1
+>>> 
+OK. But what about this?
+
+>>> l = [1, 2, 3]
+>>> m = l
+>>> l[0] = 'x'
+>>> m
+['x', 2, 3]
+>>> 
+
+
+
+This project is a little bit different than the usual projects. The first part is only questions about s specificity What would be the result oflike Pythonletnutshell
